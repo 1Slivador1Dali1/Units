@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.vmax {
+    width: 50vmax;
+    height: 100px;
+    background-color: #e88c8c;
+}
+
+.vmin {
+    width: 50vmin;
+    height: 100px;
+    background-color: #5c5cdd;
+}
