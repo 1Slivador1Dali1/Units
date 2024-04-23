@@ -1,0 +1,51 @@
+:root {
+    font-size: 10px;
+}
+
+body {
+    margin: 0;
+}
+.box1 {
+    width: 800px;
+    height: 100px;
+    background-color: #c8de64;
+}
+
+.wrapper {
+    width: 500px;
+    height: 200px;
+    border: 1px solid olive;
+}
+.box2 {
+    width: 50%;
+    height: 100px;
+    background-color: chocolate;
+}
+
+.box3 {
+    width: 10vw;
+    height: 100px;
+    background-color: aquamarine;
+}
+
+.box4 {
+    width: 200px;
+    height: 10vh;
+    background-color: blueviolet;
+}
+
+.box5 {
+    width: 50rem; /*16px * 50 */
+    height: 100px;
+    background-color: #4081af;
+}
+
+.box-em-wrapper {
+    font-size: 5px;
+}
+
+.box6 {
+    width: 50em;
+    height: 100px;
+    background-color: #ec6fc3;
+}
