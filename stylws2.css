@@ -13,3 +13,15 @@ body {
     height: 100px;
     background-color: #5c5cdd;
 }
+
+.vi {
+    width: 10vi;
+    height: 100px;
+    background-color: #97c361;
+}
+
+.vb {
+    width: 10vb;
+    height: 100px;
+    background-color: #40a0cc;
+}
