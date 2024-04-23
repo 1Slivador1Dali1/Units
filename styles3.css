@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+}
+
+.svh {
+    width: 100px;
+    height: 50svh;
+    background-color: #c22f2f;
+}
+
+.lvh {
+    width: 100px;
+    height: 50lvh;
+    background-color: #3242c2;
+}
+
+.dvh {
+    width: 100px;
+    height: 50dvh;
+    background-color: #3fbea7;
+}
+
+.vh {
+    width: 100px;
+    height: 50vh;
+    background-color: #9bc33e;
+}
